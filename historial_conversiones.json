@@ -1,0 +1,26 @@
+[
+  {
+    "monedaDestino": "USD",
+    "cantidadMXN": 213.0,
+    "tasaConversion": 0.05173,
+    "resultado": 11.01849
+  },
+  {
+    "monedaDestino": "EUR",
+    "cantidadMXN": 421.0,
+    "tasaConversion": 0.04553,
+    "resultado": 19.16813
+  },
+  {
+    "monedaDestino": "GBP",
+    "cantidadMXN": 4546.0,
+    "tasaConversion": 0.03834,
+    "resultado": 174.29363999999998
+  },
+  {
+    "monedaDestino": "JPY",
+    "cantidadMXN": 7667.0,
+    "tasaConversion": 7.4541,
+    "resultado": 57150.5847
+  }
+]
