@@ -1,26 +1,20 @@
 [
   {
-    "monedaDestino": "USD",
-    "cantidadMXN": 213.0,
-    "tasaConversion": 0.05173,
-    "resultado": 11.01849
+    "monedaDestino": "ARS",
+    "cantidad": 12.0,
+    "tasaConversion": 1174.5,
+    "resultado": 14094.0
   },
   {
-    "monedaDestino": "EUR",
-    "cantidadMXN": 421.0,
-    "tasaConversion": 0.04553,
-    "resultado": 19.16813
+    "monedaDestino": "BRL",
+    "cantidad": 412.0,
+    "tasaConversion": 5.6778,
+    "resultado": 2339.2536
   },
   {
-    "monedaDestino": "GBP",
-    "cantidadMXN": 4546.0,
-    "tasaConversion": 0.03834,
-    "resultado": 174.29363999999998
-  },
-  {
-    "monedaDestino": "JPY",
-    "cantidadMXN": 7667.0,
-    "tasaConversion": 7.4541,
-    "resultado": 57150.5847
+    "monedaDestino": "BRL",
+    "cantidad": 53.0,
+    "tasaConversion": 5.6778,
+    "resultado": 300.9234
   }
 ]
